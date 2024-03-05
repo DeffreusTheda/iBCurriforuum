@@ -2,6 +2,10 @@
 
 [FLOSS](https://www.gnu.org/philosophy/floss-and-foss.en.html)-based website for [SMA Pradita Dirgantara](https://praditadirgantara.sch.id/id/) [IB Curriculum](https://praditadirgantara.sch.id/id/ib-diploma-programme/). Anyone can contribute.
 
+> [!IMPORTANT]
+> THIS PROJECT IS AT BEST A CONCEPT DESIGN AS OF CURRENTLY;
+> THE DEVELOPERS DOESN'T HAVE MUCH SPARE TIME FOR THIS PROJECT.
+
 <!-- banner -->
 
 Version: 0.0.1
